@@ -1,0 +1,22 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keegan266/Fall2.git"
+  },
+  "author": "Keegan Hart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keegan266/Fall2/issues"
+  },
+  "homepage": "https://github.com/keegan266/Fall2#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
